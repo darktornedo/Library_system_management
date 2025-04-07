@@ -18,7 +18,7 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### 1. Database Setup
-![ERR_diagram](library_EER_diagram_sql.png)
+![ERR_diagram](EER_diagram.png)
 
 - **Database Creation**: Created a database named `library_database`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
